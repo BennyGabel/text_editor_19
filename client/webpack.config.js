@@ -24,6 +24,8 @@ module.exports = () => {
         title: 'Webpack Plugin',
       }),
       new WebpackPwaManifest({
+          fingerprints: false,
+          inject: true,
           name: 'Text Editor - JATE - Application',
           short_name: 'JATE',
           description: 'Text editor to track of important information!',
