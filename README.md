@@ -52,12 +52,12 @@ bennygabel@gmail.com
 
 
 ## Github
-Github Repository:  [![Github Repository](https://github.com/BennyGabel/text_editor_19)
+Github Repository:  [![Github Repository]](https://github.com/BennyGabel/text_editor_19)
 
 
 
 ## Heroku
-Project URL: [![Application URL](https://text19editor.herokuapp.com/)
+Project URL: [![Application URL]](https://text19editor.herokuapp.com/)
 
 
 
