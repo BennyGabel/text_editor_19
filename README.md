@@ -33,11 +33,11 @@ In Gitbash:  npm start
 
 
 ## ScreenShots
-![](/client/src/assets/screenshots/text_editor.jpg?raw=true)
+![Text Editor](/client/src/assets/screenshots/text_editor.jpg?raw=true)
 
-![](/client/src/assets/screenshots/IndexDb.jpg?raw=true)
+![IndexDb](/client/src/assets/screenshots/IndexDb.jpg?raw=true)
 
-![](/client/src/assets/screenshots/install_button.jpg?raw=true)
+![Install Button](/client/src/assets/screenshots/install_button.jpg?raw=true)
 
 
 
